@@ -1659,7 +1659,7 @@ label {
         -ms-transform: scale(1, 1);
         transform: scale(1, 1); }
       .navbar__wrap ul li:hover > a {
-        color: #191B1E; }
+        color: #FCAF17; }
       .navbar__wrap ul li.menu-item-has-children .dropdown__btn {
         display: none; }
 
@@ -3674,7 +3674,7 @@ Breadcrumb
     .testimonial__avatar span {
       display: block;
       text-transform: uppercase;
-      color: #191B1E;
+      color: #ffffff;
       font-weight: 700;
       letter-spacing: 0.1em;
       font-size: 15px; }
@@ -4132,7 +4132,7 @@ Breadcrumb
       -moz-border-radius: 50%;
       border-radius: 50%; }
   .blog__post__avatar .post__by {
-    color: #191B1E;
+    color: #ffffff;
     font-weight: 500; }
     .blog__post__avatar .post__by a {
       color: #68666C;
@@ -4262,7 +4262,7 @@ Breadcrumb
     margin-left: 5px; }
   .sidebar__cat__item a:hover {
     font-weight: 500;
-    color: #191B1E; }
+    color: #ffffff; }
 
 .sidebar__comment__item + li {
   margin-top: 20px; }
@@ -4272,7 +4272,7 @@ Breadcrumb
   align-items: center;
   font-size: 15px;
   font-weight: 700;
-  color: #191B1E;
+  color: #FCAF17;
   line-height: 1;
   margin-bottom: 10px; }
   .sidebar__comment__item a::before {
@@ -4303,8 +4303,8 @@ Breadcrumb
       border: 1px solid rgba(0, 0, 0, 0.2); }
       .sidebar__tags li a:hover {
         color: #fff;
-        background: #0054FF;
-        border-color: #0054FF; }
+        background: #FCAF17;
+        border-color: #FCAF17; }
 
 .blog__details .blog__post__meta {
   border: none;
