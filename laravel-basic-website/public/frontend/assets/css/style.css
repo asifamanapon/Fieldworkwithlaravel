@@ -4206,7 +4206,7 @@ Breadcrumb
   .rc__post__item:last-child {
     margin-bottom: 0; }
   .rc__post__item:hover .rc__post__content .title a {
-    color: #191B1E;
+    color: #ffffff;
     background-size: 0 1px, 100% 1px; }
 
 .rc__post__thumb {
